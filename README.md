@@ -93,7 +93,7 @@ Also, if you've set up two-factor authentication (something you should do with a
 
 When you're all said and done, you'll be in the csc232/hw/hw00-your-github-username directory. This cloned directory is what will be referred to as your "working directory."
 
-NOTE: Here is an issue that has been reported in the past; it relates to what might go wrong if you already had GitHub account that you've interacted with on your Windows machine.
+NOTE: Here is an issue that has been reported in the past; it relates to what might go wrong if you already had a GitHub account that you've interacted with on your Windows machine.
 
 >I ran into a small issue regarding the authentication prompt not prompting. The git message was along the lines of "fatal: repository 'url' not found". It turns out that If you have an existing GitHub account (as I do), Windows may have cached your existing account credentials in the Credential Manager.
 Navigating to: Control Panel\User Accounts\Credential Manager and removing those entries will force the GitHub authentication prompt to pup up as described in the assignment.
